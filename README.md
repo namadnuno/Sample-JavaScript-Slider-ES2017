@@ -8,11 +8,16 @@ In one of my projects i needed a costum slider, and i always wanted to build my 
 
 In order to install this package you have to follow this steps: 
 1. Download the package with NPM: 
-`npm i sample-javascript-slider-es2017`
+```
+npm i sample-javascript-slider-es2017
+```
 2. Import the slider in your js code, like:
-`import Slider from 'sample-javascript-slider-es2017';`
+```
+import Slider from 'sample-javascript-slider-es2017';
+```
 3. Inicialize the slider
-`let slider = new Slider({
+```
+let slider = new Slider({
     nextButton: 'recent--right',
     previousButton: 'recent--left',
     eachItemClass: 'slider--item',
@@ -21,7 +26,9 @@ In order to install this package you have to follow this steps:
     addClassOnCurrent: 'active animated fadeInLeft',
     addClassOnPrevious: 'previous animated fadeIn',
     duration: 5000
-});`
+});
+
+```
 
 # Enjoy
 
