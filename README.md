@@ -1,2 +1,7 @@
-# Sample-JavaScript-Slider-ES2017
-This is a sample javascript slider for my own projects and my learning curve on js
+# Sample JavaScript ES2017 Slider
+
+# Introduction
+
+In one of my projects i needed a costum slider, and i always wanted to build my own slider for learning propouses. So i present to you my solution, that solve my problems and suit my needs.
+
+
