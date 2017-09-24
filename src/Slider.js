@@ -1,4 +1,3 @@
-
 export default class Slider {
     constructor (params) {
         this.nextButton = params.nextButton;
